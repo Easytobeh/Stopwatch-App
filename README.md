@@ -4,7 +4,7 @@ A simple stopwatch application written with vanilla javascript
 
 ## Installation
 
- Just run the application [here] (https://pip.pypa.io/en/stable/) to use the App.
+ Just run the application [here](https://pip.pypa.io/en/stable/) to use the App.
 
 ## Usage
 
