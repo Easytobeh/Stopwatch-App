@@ -4,11 +4,7 @@ A simple stopwatch application written with vanilla javascript
 
 ## Installation
 
- Just run the application here [pip](https://pip.pypa.io/en/stable/) to use the App.
-
-```bash
-pip install foobar
-```
+ Just run the application [here] (https://pip.pypa.io/en/stable/) to use the App.
 
 ## Usage
 
