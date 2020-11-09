@@ -8,7 +8,8 @@ A simple stopwatch application written with vanilla javascript
 
 ## Usage
 
-```Everyday use of a stopwatch
+```
+Everyday use of a stopwatch
 ```
 
 ## Contributing
